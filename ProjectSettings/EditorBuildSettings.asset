@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/_ImageCaptureWithAI/Scenes/ImageLibrary.unity
+    guid: 64f111ea977b79b4385788f9104f16d3
+  - enabled: 0
+    path: Assets/_ImageCaptureWithAI/Scenes/SimpleImageLoader.unity
+    guid: 69c276748b17a6641bd1057ad3eb61ca
+  - enabled: 1
+    path: Assets/Scenes/ForestFlux.unity
+    guid: 7515433aef4074983ae3cc25baacc889
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 2eb3835baa1ab4e079716be0b4966dd9,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: eb15e3c911af742bd9ed70b0e1c3d899,
+      type: 2}
